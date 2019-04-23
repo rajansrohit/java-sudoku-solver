@@ -3,4 +3,4 @@ A Sudoku solver written in Java that uses recursive backtracking to fill in the 
 
 Grid array stores sudoku grid with "0" for spaces
 
-Recursive algorithm checks all possibilities
+Recursive algorithm checks all possibilities and tries to fill in "0"
