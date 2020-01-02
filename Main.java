@@ -11,7 +11,7 @@ public class Main {
             System.out.println("Solved sudoku grid");
             sudoku.display();
         } else{
-            System.out.println("Unsolvable sudoku grid");
+            System.out.println("Sudoku grid unsolvable");
         }
     }
 
