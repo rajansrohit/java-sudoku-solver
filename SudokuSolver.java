@@ -1,4 +1,4 @@
-page com.Rohit;
+package com.Rohit;
 
 public class SudokuSolver {
     
