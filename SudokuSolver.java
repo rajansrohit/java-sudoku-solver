@@ -62,7 +62,7 @@ public class SudokuSolver {
 
                             if (solve()){
                                 return true;
-                            }else{
+                            } else{
                                 board[row][col] = EMPTY;
                             }
                         }
