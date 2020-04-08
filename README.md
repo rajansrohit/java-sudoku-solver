@@ -1,5 +1,5 @@
 # Java-Sudoku-Solver
-A Sudoku solver written in Java that uses recursive backtracking and brute force to fill in the empty squares.
+A Sudoku solver written in Java that uses recursive backtracking and brute force to resolve empty squares.
 
 Grid array stores sudoku grid with "0" for spaces
 
